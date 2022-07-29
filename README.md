@@ -1,4 +1,4 @@
-## Oii, eu sou a Deyvison Tavares, desenvolvedor Full-stack em seguimento!!
+## Oii, eu sou a Deyvison Tavares, desenvolvedor Front-End em seguimento!!
 <div align="center">
   <a href="https://github.com/DeyvisonTav">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DeyvisonTav&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
