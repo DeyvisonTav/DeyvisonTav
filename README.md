@@ -1,4 +1,4 @@
-## Oii, eu sou Deyvison Tavares, desenvolvedor Full-Stack | ReactJS | NextJS | Nestjs | GraphQL | Typescript | NodeJS | Docker | PostgreSQL
+## Mid-Level Software Developer | ReactJS | NextJS | Nest.js | Fastify | GraphQL | TypeScript | NodeJS | PrismaORM | Keycloak | Java Spring Boot
 <div align="center">
   <a href="https://github.com/DeyvisonTav">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DeyvisonTav&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,6 @@
  	<a href = "mailto:deyvisontav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deyvison-tavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
