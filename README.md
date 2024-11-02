@@ -1,4 +1,4 @@
-## Mid-Level Software Developer | ReactJS | NextJS | Nest.js | Fastify | GraphQL | TypeScript | NodeJS | PrismaORM | Keycloak | Java Spring Boot
+## Hi, I'm Software Developer Pleno | Node.js | NestJS | React Native | TypeScript | AWS | Microservices | React.js | Next.js
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
